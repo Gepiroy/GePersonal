@@ -1,0 +1,15 @@
+name: GePersonal
+main: GePersonal.main
+version: 0.0
+api-version: 1.13
+commands:
+  gepers:
+  kick:
+  ban:
+  become:
+  check:
+  court:
+  geptest:
+  report:
+  bug:
+  offer:
